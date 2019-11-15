@@ -11,3 +11,8 @@ li{
     text-align: center;
     color: #fff;
 }
+#icon{
+    width: 48px;
+    height: 48px;
+    background: #e4393c;
+}
